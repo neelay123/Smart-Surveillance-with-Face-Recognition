@@ -75,7 +75,7 @@ the prediction of the person is correct.
 
 ## Implementation
 
-   1. Download the Face Detector Caffe Model from here: https://drive.google.com/open?id=1hh4aAYVB3vYSCt91dB43j4XvgoSylJTi
+   1. Download the Face Detector Caffe Model from here: https://drive.google.com/drive/folders/1axpvLsLsjPGIoOpFhUbLXbnemskTmt2H?usp=sharing
    
    2. Run the embeddings_extraction.py using the command:
    `python embeddings_extraction.py --dataset data\ --embeddings output/embeddings.pickle --detector face_detector_caffe_model\ --embedding-model openface_nn4.small2.v1.t7`
